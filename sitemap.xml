@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://tgelez.github.io/about/</loc>
+    <lastmod>2018-02-28T22:45:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tgelez.github.io/blog/</loc>
     <lastmod>2018-02-27T17:21:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://tgelez.github.io/</loc>
     <lastmod>2018-02-27T17:03:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/cellar/</loc>
+    <loc>https://tgelez.github.io/cellar/</loc>
     <lastmod>2018-02-26T17:03:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2018-02-26/</loc>
+    <loc>https://tgelez.github.io/blog/2018-02-26/</loc>
     <lastmod>2018-02-26T16:52:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tgelez.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tgelez.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
